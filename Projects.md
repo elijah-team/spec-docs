@@ -4,19 +4,47 @@ Project List
 ### Branches
 
 [`persistent-pancake`](https://github.com/elijah-team/persistent-pancake)
+- Redo everything
+- no Kotlin, yes Gradle, fake multi-pom, yes Undertow
+- `yearly` `baseboard` `jumpoff`
+- Initial (2019 Jan 11): https://github.com/elijah-team/persistent-pancake/commit/00d6807dcf8cbbb471638fc31f4acdb7360480f6
+- Latest (2023 Nov 18) `2023-10-wont-stop-ww`: https://github.com/elijah-team/persistent-pancake/commit/f7ec71e00a19ff69be1f1d8a91175f57fca5d8d0
+- `wontstop` on gh
+- https://github.com/elijah-team/persistent-pancake/commits/yearly
 
 [`prolific-remnant`](https://github.com/elijah-team/prolific-remnant)
-- [A new take - 2023 Sep 13](https://github.com/elijah-team/prolific-remnant/commit/c2d6048d2253e3a104b5febdbe1ca92dbd6a1cc1)
-- 
+- Animal wrap
+- no Gradle, no Kotlin, single project, limited commits
+- single project, [desperately](https://www.youtube.com/watch?v=FXovf5dsRTw) clean
+- `specs`
+- This __is__ Fluffy --> `mainline-k` `mainline-k-2023-09`
+- `A new take` (2023 Sep 13): https://github.com/elijah-team/prolific-remnant/commit/c2d6048d2253e3a104b5febdbe1ca92dbd6a1cc1)
+- Latest (2023 Nov 10) `pr-mainline-k`: https://github.com/elijah-team/prolific-remnant/commit/46d7820b81b7d0feb32ae3c0a0dd8d9e501979ea
+- I think this is baseline/baseboard (2023 Sep 13): https://github.com/elijah-team/prolific-remnant/commit/f1aae68b7aa027208ce5263bf539e7b8cb21f1e6
+- Getting greens/No time for this again (): https://github.com/elijah-team/prolific-remnant/commit/9e6259694f5a1eeab418d49148e5d4bdbcbd69f4
+- Actual Latest () `..`: https://github.com/elijah-team/prolific-remnant/commit/74d3f4b5a2c3ca946bd6a15e809b3ab2f9ceb99f
+- https://github.com/elijah-team/prolific-remnant/commits/
 
 [`congenial-robot`](https://github.com/elijah-team/congenial-robot)
+- "Less noise, More verification, on the road to correctness"
+- yes Kotlin, no Gradle
+- `septagon` `congenial` `rosetta`
+- `baseboard`
+- Stable (2023 Nov 5) `2023-congenial`: https://github.com/elijah-team/congenial-robot/commit/67269d24f1d106995db4d2f002163f2e029cb42a
+- Latest (2023 Nov 18) `2023-11-rosetta2`: https://github.com/elijah-team/congenial-robot/commit/b72c6826cc6be7c81efb7f7266f68f8895c5aa0a
+- ?? (2023 Nov 10) `2023-11-rosetta`: https://github.com/elijah-team/congenial-robot/commit/5d798aceff57ce02159d9ebaf7e0aeb81ea9039b 
 
 [`elevated-potential`](https://github.com/elijah-team/elevated-potential)
-- no Kotlin, yes Gradle, yes multi-pom
+- no Kotlin, yes Gradle, yes multi-pom, limited commits
 - `septagon` `industrial` (`almost`)
 - Initial, 2023 Oct 14: https://github.com/elijah-team/elevated-potential/commit/3defe65095cf5c68afe514c6978f8aae90103131
 - `2023` latest Oct 15: https://github.com/elijah-team/elevated-potential/commit/aeed6164a3310e19147f59773de6db46519d0d47
 - `industrial` Nov 10 (X): https://github.com/elijah-team/elevated-potential/commit/0e663425d0fef9bc7c20e5ced13ab7ebcc564ae9
+- Start here: https://github.com/elijah-team/elevated-potential/compare/2023...2023-10industrial
+- Start here: https://github.com/elijah-team/elevated-potential/pulls?q=is%3Apr+is%3Amerged
+- Start here: https://github.com/elijah-team/elevated-potential/pull/6
+- idk if thisis Graphite or assembly: https://github.com/elijah-team/elevated-potential/tree/2023-10industrial-stack-gt
+- 
 
 [`fantastic-giggle`](https://github.com/elijah-team/fantastic-giggle)
 - Snapshot of elijah fluffy-umbrella for use with clojure
@@ -53,6 +81,9 @@ Project List
 - Maven (2023 Apr 16): https://github.com/elijah-team/fluffy-umbrella/packages/1676914
 - Maven (2023 Jan 19): https://github.com/elijah-team/fluffy-umbrella/packages/1676914?version=0.0.9-flum-main-230119-001-rel
 - Maven (2022 Oct 17): https://github.com/elijah-team/fluffy-umbrella/packages/1676914?version=0.0.9-flum-main-221017-001-rel
+- Cherry pick: https://github.com/elijah-team/fluffy-umbrella/commit/2ad63fa3487f9e84dd34ec02a1056f8d3c0f8122
+- ??: https://github.com/elijah-team/fluffy-umbrella/compare/0.0.9-flum-main-230119-001-rel...mainline
+- (nov 18 release pr) Start here: https://github.com/elijah-team/fluffy-umbrella/pull/34
 
 [`elijah-lang-lgpl`](https://github.com/elijah-team/elijah-lang-lgpl)
 - "The beginning"
