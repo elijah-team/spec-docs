@@ -16,7 +16,7 @@ theme: minima
 
 show_downloads: true
 #remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-remote_theme: "jsanz/gh-pages-minima-starter"
+##remote_theme: "jsanz/gh-pages-minima-starter"
 
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
